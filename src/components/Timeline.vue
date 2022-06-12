@@ -1,5 +1,5 @@
 <template>
-  <div class="container py-20 px-5">
+  <div class="container py-20 px-5 mx-auto">
     <div class="grid grid-cols-2 items-center">
       <!-- timeline -->
       <ol

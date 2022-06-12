@@ -1,5 +1,5 @@
 <template>
-  <div class="container py-10 px-5">
+  <div class="container py-10 px-5 mx-auto">
     <article class="md:grid md:grid-cols-4 items-center">
       <div>
         <div class="flex items-center justify-center mb-6 space-x-4">

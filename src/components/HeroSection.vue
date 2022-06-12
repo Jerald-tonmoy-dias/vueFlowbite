@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 mt-10">
+  <div class="container px-4 mt-10 mx-auto">
     <div
       class="grid grid-cols-2 p-10 place-items-center bg-white rounded-lg border shadow-md dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
     >
